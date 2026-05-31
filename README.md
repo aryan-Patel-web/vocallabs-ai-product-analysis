@@ -22,7 +22,7 @@ I explored Vocallabs.ai across **five sessions** treating myself as two personas
 
 ## 📁 Screenshot Index
 
-All screenshots are in [`/Manually_Explore_Screenshot`](./Manually_Explore_Screenshot/).
+
 
 Every screenshot has a visible timestamp and date in the system clock (bottom-right corner), verifying when each observation was made.
 
