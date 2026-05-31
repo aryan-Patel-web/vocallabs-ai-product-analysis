@@ -7,6 +7,7 @@
 
 ---
 
+
 ## 🔍 What I Explored (Over 2 Days)
 
 I explored Vocallabs.ai across **five sessions** treating myself as two personas simultaneously:
